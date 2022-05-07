@@ -1,0 +1,18 @@
+Comando básico para o terminal cmd
+Dir traz todas as pastas do sistema e mostra em qual pasta está no momento
+Cd entra dentro de uma pasta
+Cd .. volta na pasta
+Cls limpa a tela
+Mkdir cria uma pasta
+Del deleta um arquivo
+Seta pra cima navegar nos comandos já executados
+rmdir workspace /S /Q excluir pasta
+____________________________________________________________
+Sha1 a grosso modo, ele embaralha o seu arquivo, seja foto, texto etc.
+Encripta dados.
+___________________________________________________________
+Blob armazena cha1 do arquivo
+Tree guarda os blob(cha1 e o nome dos arquivos), e tem o char1 dos blob e outras trree
+Commit aponta para um tree, entre outras tree. Salva o arquivo com horário, momento e quem fez a modificação
+___________________________________________________________
+Chaves SSH uma conexão segura entre maquinae github
